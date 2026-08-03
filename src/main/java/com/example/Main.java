@@ -7,10 +7,10 @@ public class Main {
         // Crear el primer objeto
         Product producto1 = new Product();
 
-        /*producto1.setId("CS272");
+        producto1.setId("CS272");
         producto1.setName("Buzo");
         producto1.setPrice(66600.0);
-        producto1.setStock(10);*/
+        producto1.setStock(10);
 
         // Modificar un atributo
         producto1.setPrice(2300.0);
@@ -18,10 +18,10 @@ public class Main {
         // Crear el segundo objeto
         Product producto2 = new Product();
 
-        /*producto2.setId("D0091");
+        producto2.setId("D0091");
         producto2.setName("Licra");
         producto2.setPrice(60000.0);
-        producto2.setStock(5);*/
+        producto2.setStock(5);
 
         // Modificar un atributo
         producto2.setStock(30);
